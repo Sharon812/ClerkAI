@@ -1,0 +1,11 @@
+{
+  "name": "appointment_ai_booking",
+  "version": "1.0.0",
+  "description": "ai booking assistant using ",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
